@@ -1,27 +1,27 @@
 {
 	"name": "@ctx-core/nav-ui-svelte",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "ctx-core nav",
 	"keywords": [
 		"ctx-core",
 		"nav",
 		"yarn"
 	],
-	"homepage": "https://github.com/ctx-core/nav#readme",
+	"homepage": "https://github.com/ctx-core/nav-ui-svelte#readme",
 	"bugs": {
-		"url": "https://github.com/ctx-core/nav/issues"
+		"url": "https://github.com/ctx-core/nav-ui-svelte/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/nav/issues"
+		"url": "https://github.com/ctx-core/nav-ui-svelte.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -33,14 +33,14 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.2.13",
-		"@ctx-core/object": "workspace:^22.0.1",
-		"@ctx-core/store": "workspace:^27.0.48"
+		"@ctx-core/function": "workspace:^20.2.14",
+		"@ctx-core/object": "workspace:^22.0.2",
+		"@ctx-core/store": "workspace:^27.0.49"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.88",
-		"@ctx-core/fontawesome": "workspace:^16.0.2",
-		"@ctx-core/sass": "workspace:^12.1.9",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.89",
+		"@ctx-core/fontawesome": "workspace:^16.0.3",
+		"@ctx-core/sass": "workspace:^12.1.10",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
