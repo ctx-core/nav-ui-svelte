@@ -1,5 +1,14 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.0.13
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/function@20.2.21
+  - @ctx-core/svelte@10.1.2
+
 ## 1.0.12
 
 ### Patch Changes
