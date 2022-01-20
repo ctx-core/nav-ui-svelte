@@ -42,7 +42,7 @@
 	},
 	"devDependencies": {
 		"@ctx-core/fontawesome": "workspace:^16.0.16",
-		"@ctx-core/sass": "workspace:^12.1.26",
+		"@ctx-core/sass": "workspace:^12.1.27",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
