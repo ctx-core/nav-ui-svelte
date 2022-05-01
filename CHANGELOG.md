@@ -1,5 +1,13 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.0.38
+
+### Patch Changes
+
+- svelte: ^3.47.0 -> ^3.48.0
+- Updated dependencies
+  - @ctx-core/svelte@10.1.17
+
 ## 1.0.37
 
 ### Patch Changes
