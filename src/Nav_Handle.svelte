@@ -1,12 +1,12 @@
 <script lang="ts">
 import FA_bars_solid from '@ctx-core/fontawesome/ui/FA-bars-solid.svelte'
 import type { nav_Ctx } from '../nav_Ctx.js'
-import { nav_opened$_ } from '../nav_opened$_.js'
+import { nav_opened__ } from '../nav_opened__.js'
 export let ctx:nav_Ctx
-const nav_opened$ = nav_opened$_(ctx)
-const { toggle_nav } = nav_opened$
+const nav_opened_ = nav_opened__(ctx)
+const { toggle_nav } = nav_opened_
 function onclick_window(_event:MouseEvent) {
-	nav_opened$.$ = false
+	nav_opened_.$ = false
 }
 </script>
 

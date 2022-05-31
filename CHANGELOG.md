@@ -1,5 +1,16 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.1.0
+
+### Minor Changes
+
+- \__ suffix aliased by \$_
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/svelte@10.2.0
+
 ## 1.0.47
 
 ### Patch Changes

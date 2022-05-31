@@ -1,9 +1,9 @@
 <script lang="ts">
 import { Ctx } from '@ctx-core/object'
-import { nav_opened$_ } from '../nav_opened$_.js'
+import { nav_opened__ } from '../nav_opened__.js'
 export let ctx:Ctx
-const nav_opened$ = nav_opened$_(ctx)
-const { close_nav } = nav_opened$
+const nav_opened_ = nav_opened__(ctx)
+const { close_nav } = nav_opened_
 let nav:HTMLElement
 function onclick_nav(event) {
 	const { target } = event
@@ -16,6 +16,6 @@ function onclick_nav(event) {
 <nav
 	bind:this={nav}
 	class="Nav_Content {$$props.class||''}"
-	class:nav_opened={$nav_opened$}
+	class:nav_opened={$nav_opened_}
 	on:click={onclick_nav}
 ><slot></slot></nav>

@@ -1,9 +1,9 @@
 <script lang="ts">
 import type { nav_Ctx } from '../nav_Ctx.js'
-import { nav_opened$_ } from '../nav_opened$_.js'
+import { nav_opened__ } from '../nav_opened__.js'
 export let ctx:nav_Ctx
-const nav_opened$ = nav_opened$_(ctx)
-const { close_nav } = nav_opened$
+const nav_opened_ = nav_opened__(ctx)
+const { close_nav } = nav_opened_
 </script>
 
 <div class="Nav_Header header">
