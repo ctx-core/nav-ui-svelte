@@ -1,5 +1,5 @@
 <script lang="ts">
-import { Ctx } from '@ctx-core/object'
+import { type Ctx } from '@ctx-core/object'
 import { nav_opened__ } from '../nav_opened__.js'
 export let ctx:Ctx
 const nav_opened_ = nav_opened__(ctx)
