@@ -1,5 +1,11 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.1.10
+
+### Patch Changes
+
+- fix: import { nav_opened\_\_ } from '@ctx-core/nav'
+
 ## 1.1.9
 
 ### Patch Changes
