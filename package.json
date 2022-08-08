@@ -37,7 +37,7 @@
 		"@ctx-core/function": "^21.0.0",
 		"@ctx-core/nav": "^22.2.0",
 		"@ctx-core/object": "^22.2.6",
-		"@ctx-core/svelte": "^12.0.3"
+		"@ctx-core/svelte": "^12.0.4"
 	},
 	"devDependencies": {
 		"@ctx-core/fontawesome": "^16.0.31",
