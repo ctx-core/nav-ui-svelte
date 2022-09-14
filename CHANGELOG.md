@@ -1,5 +1,11 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.1.20
+
+### Patch Changes
+
+- svelte2tsx: ^0.5.16 -> ^0.5.17
+
 ## 1.1.19
 
 ### Patch Changes
