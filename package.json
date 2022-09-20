@@ -34,7 +34,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^21.3.0",
+		"@ctx-core/function": "^21.4.0",
 		"@ctx-core/nav": "^22.2.3",
 		"@ctx-core/object": "^22.2.8",
 		"@ctx-core/svelte": "^13.0.3"
