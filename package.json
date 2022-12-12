@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/nav-ui-svelte",
-	"version": "1.1.32",
+	"version": "1.1.33",
 	"description": "ctx-core nav",
 	"keywords": [
 		"ctx-core",
@@ -40,8 +40,8 @@
 		"@ctx-core/svelte": "^13.4.5"
 	},
 	"devDependencies": {
-		"@ctx-core/fontawesome": "^16.0.32",
-		"@ctx-core/sass": "^12.1.71",
+		"@ctx-core/fontawesome": "^16.0.33",
+		"@ctx-core/sass": "^12.1.72",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",

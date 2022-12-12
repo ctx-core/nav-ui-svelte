@@ -1,5 +1,11 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.1.33
+
+### Patch Changes
+
+- @ctx-core/fontawesome: ^16.0.32 -> ^16.0.33
+
 ## 1.1.32
 
 ### Patch Changes
