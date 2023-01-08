@@ -1,5 +1,14 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.1.57
+
+### Patch Changes
+
+- @ctx-core/object: ^23.0.0 -> ^23.0.1
+- Updated dependencies
+  - @ctx-core/nav@22.2.14
+  - @ctx-core/svelte@13.4.15
+
 ## 1.1.56
 
 ### Patch Changes
