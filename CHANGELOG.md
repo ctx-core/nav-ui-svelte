@@ -1,5 +1,13 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.1.71
+
+### Patch Changes
+
+- tslib: ^2.4.1 -> ^2.5.0
+- Updated dependencies
+  - @ctx-core/nav@22.2.18
+
 ## 1.1.70
 
 ### Patch Changes
