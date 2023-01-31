@@ -1,5 +1,16 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.1.75
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/function@21.6.1
+  - @ctx-core/nav@22.2.20
+  - @ctx-core/object@24.1.1
+  - @ctx-core/svelte@13.4.20
+
 ## 1.1.74
 
 ### Patch Changes
