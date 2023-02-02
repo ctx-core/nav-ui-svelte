@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/nav-ui-svelte",
-	"version": "1.1.80",
+	"version": "1.1.81",
 	"description": "ctx-core nav",
 	"keywords": [
 		"ctx-core",
@@ -49,7 +49,7 @@
 		"rimraf": "^4.1.2",
 		"svelte": "^3.55.1",
 		"svelte-preprocess": "^5.0.1",
-		"svelte2tsx": "^0.6.0",
+		"svelte2tsx": "^0.6.1",
 		"tslib": "^2.5.0",
 		"typescript": "next"
 	},
