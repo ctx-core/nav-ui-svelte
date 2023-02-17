@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
 export let selected = false
 export let href = ''
 export let alt = ''

@@ -1,5 +1,17 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.2.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+- Nav_Content,Nav_Handle,Nav_Header,Nav_Item: + types: extends SvelteComponentTyped
+
+### Patch Changes
+
+- Nav_Handle: fix: imports
+- Nav_Header: fix: imports
+
 ## 1.1.96
 
 ### Patch Changes
