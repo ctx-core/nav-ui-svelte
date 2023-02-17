@@ -1,5 +1,11 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.2.1
+
+### Patch Changes
+
+- @ctx-core/fontawesome-ui-svelte: workspace:^1.0.119 -> 1.0.120
+
 ## 1.2.0
 
 ### Minor Changes
