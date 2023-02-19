@@ -1,5 +1,15 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.2.9
+
+### Patch Changes
+
+- @ctx-core/svelte: ^13.4.32 -> ^13.4.33
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/fontawesome-ui-svelte@1.0.127
+  - @ctx-core/nav@22.2.30
+
 ## 1.2.8
 
 ### Patch Changes
