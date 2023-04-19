@@ -1,5 +1,17 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.2.90
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/fontawesome-ui-svelte@1.0.196
+  - @ctx-core/function@21.17.19
+  - @ctx-core/nav@22.2.81
+  - @ctx-core/object@27.4.23
+  - @ctx-core/svelte@13.4.86
+
 ## 1.2.89
 
 ### Patch Changes
