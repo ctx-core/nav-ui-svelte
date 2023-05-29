@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/nav-ui-svelte",
-	"version": "1.2.111",
+	"version": "1.2.112",
 	"description": "ctx-core nav",
 	"keywords": [
 		"ctx-core",
@@ -38,7 +38,7 @@
 		"@ctx-core/function": "^21.18.0",
 		"@ctx-core/nav": "^22.2.96",
 		"@ctx-core/object": "^27.4.26",
-		"@ctx-core/svelte": "^13.5.0",
+		"@ctx-core/svelte": "^13.6.0",
 		"svelte": "^3.59.1"
 	},
 	"devDependencies": {
