@@ -1,5 +1,5 @@
-import { SvelteComponentTyped } from 'svelte'
-export class index extends SvelteComponentTyped<{
+import { SvelteComponent } from 'svelte'
+export class index extends SvelteComponent<{
 	selected?:boolean
 	class?:string
 	href?:string

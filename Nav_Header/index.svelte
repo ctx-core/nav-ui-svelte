@@ -6,7 +6,7 @@ export let ctx
 
 <div class="Nav_Header header">
 	<slot name="close">
-		<a href="." class="close" on:click|preventDefault={()=>nav_opened__close(ctx)}>
+		<a href="" class="close" on:click|preventDefault={()=>nav_opened__close(ctx)}>
 			<slot name="in__close">×</slot>
 		</a>
 	</slot>

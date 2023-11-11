@@ -1,8 +1,9 @@
-<script>
+<script lang="ts">
 import FA_bars_solid from '@ctx-core/fontawesome-ui-svelte/src/ui/FA-bars-solid.svelte'
+import type { Ctx } from '@ctx-core/object'
 import { nav_opened$_, nav_opened__close } from '@ctx-core/nav'
 /** @type {import('@ctx-core/object').Ctx} */
-export let ctx
+export let ctx:Ctx
 const nav_opened$ = nav_opened$_(ctx)
 const { toggle_nav } = nav_opened$
 /**
@@ -16,7 +17,7 @@ function window__onclick(_event) {
 <svelte:window on:click={event=>window__onclick(event)}></svelte:window>
 
 <a
-	href="."
+	href=""
 	class="nav-handle Nav_Handle {$$props.class||''}"
 	on:click|preventDefault|stopPropagation={toggle_nav}
 >
