@@ -1,5 +1,11 @@
 # @ctx-core/nav-ui-svelte
 
+## 1.3.50
+
+### Patch Changes
+
+- @ctx-core/nav: ^23.1.43 -> ^23.1.44
+
 ## 1.3.49
 
 ### Patch Changes

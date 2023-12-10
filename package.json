@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/nav-ui-svelte",
-	"version": "1.3.49",
+	"version": "1.3.50",
 	"description": "ctx-core nav",
 	"keywords": [
 		"ctx-core",
@@ -44,7 +44,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/fontawesome-ui-svelte": "1.1.46",
-		"@ctx-core/nav": "^23.1.43",
+		"@ctx-core/nav": "^23.1.44",
 		"@ctx-core/svelte": "^15.0.26",
 		"@ctx-core/object": "^31.1.22",
 		"svelte": "^4.2.8"
