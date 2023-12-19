@@ -1,8 +1,7 @@
 <script lang="ts">
-import FA_bars_solid from '@ctx-core/fontawesome-ui-svelte/src/ui/FA-bars-solid.svelte'
-import type { Ctx } from '@ctx-core/object'
+import { FA_bars_solid } from '@ctx-core/fontawesome-ui-svelte'
 import { nav_opened$_, nav_opened__close } from '@ctx-core/nav'
-/** @type {import('@ctx-core/object').Ctx} */
+import type { Ctx } from 'ctx-core/be'
 export let ctx:Ctx
 const nav_opened$ = nav_opened$_(ctx)
 const { toggle_nav } = nav_opened$

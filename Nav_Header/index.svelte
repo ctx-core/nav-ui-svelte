@@ -1,7 +1,7 @@
-<script>
+<script lang="ts">
 import { nav_opened__close } from '@ctx-core/nav'
-/** @type {import('@ctx-core/object').Ctx} */
-export let ctx
+import type { Ctx } from 'ctx-core/be'
+export let ctx:Ctx
 </script>
 
 <div class="Nav_Header header">
