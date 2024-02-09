@@ -1,6 +1,6 @@
 <script>
 import { nav_opened$_, nav_opened__close } from '@ctx-core/nav'
-/** @type {import('ctx-core/be').Ctx} */
+/** @type {import('ctx-core/be').ctx_T} */
 export let ctx
 const nav_opened$ = nav_opened$_(ctx)
 /** @type {HTMLElement} */
